@@ -24,7 +24,7 @@ Email **[zcengel@yahoo.com](mailto:zcengel@yahoo.com)**. Say which iPhone and iO
 
 **Recording doesn't work.** Tone Studio needs the microphone. On the record screen, tap **Open Settings**, or go to the iPhone's Settings › Privacy & Security › Microphone and turn on Tone Studio.
 
-**What can I make a tone from?** Your own recordings, audio files from Files and iCloud Drive, sounds shared to Tone Studio from other apps such as Voice Memos, and the sound from videos in Photos. Songs from Apple Music are copy-protected, so they can't be imported.
+**What can I make a tone from?** Your own recordings, audio files from Files and iCloud Drive, audio files that other apps open in Tone Studio, and the sound from videos in Photos. Songs from Apple Music are copy-protected, so they can't be imported.
 
 **What's free, and what does Pro add?** Free: the Starter pack, three Composer instruments (Marimba, Pluck and Bell), and up to 3 of your own tones (recordings, imports and Composer creations). Tones from Discover don't count toward the 3. Pro is a one-time purchase that adds unlimited tones of your own, all 8 instruments and every tone pack, including packs added later. You can also buy packs one at a time. There are no subscriptions, and Family Sharing works with every purchase.
 
