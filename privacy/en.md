@@ -1,4 +1,4 @@
-# Privacy Policy of Stiffler
+# Privacy Policy of Tone Studio
 
 Last updated: 18 November 2026
 
@@ -35,7 +35,7 @@ Among the types of Personal Data that this Application processes, there are:
 
 * **Recordings:** the audio captured by the device’s microphone while the User is recording in this Application, which may include the User’s voice and the voices of other people nearby.
 * **Imported media:** the audio files and videos that the User picks in Files or Photos, or shares to this Application from another app. This Application receives only the items the User picks, not the rest of the User’s photo library or files. From a video, it keeps only the sound.
-* **Tones:** the tones the User saves, with their names, their type (ringtone or text tone), their length, the date they were made, and the settings used to make them in Tone Studio or the editor.
+* **Tones:** the tones the User saves, with their names, their type (ringtone or text tone), their length, the date they were made, and the settings used to make them in the Composer or the editor.
 * **Purchase information:** which Products the User has bought, as provided by Apple.
 * **Support information:** the content of any email the User sends to the Owner, and the User’s email address.
 
@@ -196,8 +196,8 @@ This privacy policy is written in English. If it is translated, the translation 
 * **User:** the person who uses this Application, and to whom the Personal Data refers.
 * **Data Processor:** a natural or legal person who processes Personal Data on behalf of the Owner, as described in this privacy policy.
 * **Owner (or Data Controller):** the natural or legal person named at the beginning of this privacy policy, who decides the purposes and means of the processing of Personal Data.
-* **This Application (or Stiffler):** the iPhone and iPad app through which the Service is provided.
+* **This Application (or Tone Studio):** the iPhone and iPad app through which the Service is provided.
 * **Service:** the service provided by this Application as described in the Terms and Conditions and in this Application: making ringtones and text tones from the User’s recordings, imported audio and video, and tunes composed in this Application.
-* **Product:** any feature or content available for purchase in this Application, such as Stiffler Pro and tone packs.
+* **Product:** any feature or content available for purchase in this Application, such as Tone Studio Pro and tone packs.
 * **European Union (or EU):** all current member states of the European Union and the European Economic Area.
 * **Apple:** Apple Inc. and its subsidiaries.

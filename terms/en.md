@@ -1,4 +1,4 @@
-# Terms and Conditions of Stiffler
+# Terms and Conditions of Tone Studio
 
 Last updated: 18 November 2026
 
@@ -41,7 +41,7 @@ By using this Application, Users confirm that they meet the following requiremen
 
 ### Content on this Application
 
-Unless otherwise specified or clearly recognizable, all content available on this Application, including the Store Tones and the software that composes tones in Tone Studio, is owned or provided by the Owner or its licensors. User Content belongs to the User or to its rights holders, as described below.
+Unless otherwise specified or clearly recognizable, all content available on this Application, including the Store Tones and the software that composes tones in the Composer, is owned or provided by the Owner or its licensors. User Content belongs to the User or to its rights holders, as described below.
 
 The Owner undertakes its utmost effort to ensure that the content provided on this Application infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result.
 
@@ -60,7 +60,7 @@ Any applicable statutory limitation or exception to copyright shall stay unaffec
 ### Licence to tones
 
 * **Store Tones.** For each Store Tone that the User adds from the free Starter pack or from a tone pack the User has unlocked, the Owner grants the User a personal, non-exclusive, non-transferable licence to use that tone as a ringtone, text tone, alarm or other alert sound on devices the User owns or controls, and to keep copies of it for that purpose. This licence does not allow the User to sell, distribute, publish or broadcast Store Tones, to offer them in other apps or services, or to use them in other works such as videos, songs or advertisements. Editing a Store Tone in this Application does not change these limits.
-* **Tone Studio.** The User may use the tones that the User composes in Tone Studio for any purpose, including sharing them and using them in other works. Because Tone Studio composes from a limited number of settings, other Users may compose the same or similar tones, so the Owner does not grant the User exclusive rights in them, and the User may not prevent others from using the same or similar tones.
+* **Composer.** The User may use the tones that the User composes in the Composer for any purpose, including sharing them and using them in other works. Because the Composer composes from a limited number of settings, other Users may compose the same or similar tones, so the Owner does not grant the User exclusive rights in them, and the User may not prevent others from using the same or similar tones.
 * **User Content.** Recordings that the User makes and audio or video that the User imports, and the tones the User makes from them, remain the User’s or belong to their rights holders. The Owner claims no rights in them and does not receive them.
 
 ### Sounds that Users record or import
@@ -106,11 +106,11 @@ Users purchasing through the Apple App Store must therefore read such terms and 
 
 ### Free use
 
-This Application can be used free of charge with limits: the Starter pack, some Tone Studio instruments, and a limited number of tones of the User’s own. The current limits are shown in this Application.
+This Application can be used free of charge with limits: the Starter pack, some Composer instruments, and a limited number of tones of the User’s own. The current limits are shown in this Application.
 
-### Stiffler Pro and tone packs
+### Tone Studio Pro and tone packs
 
-Stiffler Pro removes the limit on tones of the User’s own, unlocks every Tone Studio instrument, and unlocks every tone pack, including tone packs that the Owner adds while Stiffler Pro is offered. Tone packs can also be bought one at a time. What each Product includes and its price are shown in this Application before purchase.
+Tone Studio Pro removes the limit on tones of the User’s own, unlocks every Composer instrument, and unlocks every tone pack, including tone packs that the Owner adds while Tone Studio Pro is offered. Tone packs can also be bought one at a time. What each Product includes and its price are shown in this Application before purchase.
 
 ### One-time purchases
 
@@ -214,7 +214,7 @@ Additionally, the Service might not be available due to reasons outside the Owne
 
 ### Service reselling
 
-Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of this Application and of its Service without the Owner’s express prior written permission, granted either directly or through a legitimate reselling program. This does not limit the User’s rights in Tone Studio tones and User Content described in “Licence to tones”.
+Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of this Application and of its Service without the Owner’s express prior written permission, granted either directly or through a legitimate reselling program. This does not limit the User’s rights in Composer tones and User Content described in “Licence to tones”.
 
 ### Privacy policy
 
@@ -290,7 +290,7 @@ The above does not apply to any Users that qualify as European Consumers, nor to
 
 ## Definitions
 
-* **This Application (or Stiffler):** the iPhone and iPad app through which the Service is provided.
+* **This Application (or Tone Studio):** the iPhone and iPad app through which the Service is provided.
 * **Owner:** the natural or legal person named at the beginning of these Terms, who provides this Application and the Service.
 * **User:** any person who uses this Application.
 * **Consumer:** any User who is a natural person and uses this Application for purposes outside their trade, business, craft or profession.
@@ -298,9 +298,9 @@ The above does not apply to any Users that qualify as European Consumers, nor to
 * **European Consumer:** any Consumer who has their habitual residence in a member state of the European Union or the European Economic Area.
 * **Service:** the service provided by this Application as described in these Terms and in this Application: making ringtones and text tones from the User’s recordings, imported audio and video, and tunes composed in this Application.
 * **Store Tones:** the tones offered in this Application’s Discover tab, in the free Starter pack and in tone packs, and any edited versions of them.
-* **Tone Studio:** the part of this Application that composes new tunes from the settings the User chooses.
+* **Composer:** the part of this Application that composes new tunes from the settings the User chooses.
 * **User Content:** sounds the User records with this Application, audio and video the User imports into it, and the tones made from them.
-* **Product:** any feature or content available for purchase in this Application, such as Stiffler Pro and tone packs.
+* **Product:** any feature or content available for purchase in this Application, such as Tone Studio Pro and tone packs.
 * **Agreement:** any legally binding or contractual relationship between the Owner and the User, governed by these Terms.
 * **Terms:** all provisions applicable to the use of this Application and/or the Service as described in this document, as updated from time to time.
 * **Personal Data:** any information that directly or indirectly identifies a natural person.
