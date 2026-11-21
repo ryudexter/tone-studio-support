@@ -1,6 +1,6 @@
 # Terms and Conditions of Tone Studio
 
-Last updated: 18 November 2026
+Last updated: 21 November 2026
 
 These Terms govern
 
@@ -22,9 +22,9 @@ Owner contact email: [zcengel@yahoo.com](mailto:zcengel@yahoo.com)
 ## What the User should know at a glance
 
 * Please note that some provisions in these Terms may only apply to certain categories of Users. In particular, certain provisions may only apply to Consumers or to those Users that do not qualify as Consumers. Such limitations are always explicitly mentioned within each affected clause. In the absence of any such mention, clauses apply to all Users.
-* Every Store Tone is an original composition made by this Application’s own software. Unlocking a tone pack gives the User a personal licence to use its tones as ringtones and alert sounds, as described in “Licence to tones”.
+* Every Store Tone is an original composition made by this Application’s own software. A free tone, a tone the User buys, or Tone Studio Premium gives the User a personal licence to use tones as ringtones and alert sounds, as described in “Licence to tones”.
 * Users may only record or import sounds that they made themselves or have permission to use. Users are responsible for the sounds they record, import and share.
-* Purchases are made through the Apple App Store. All Products are one-time purchases: there are no subscriptions.
+* Purchases are made through the Apple App Store. Store Tones can be bought one at a time, as one-time purchases. Tone Studio Premium is a yearly subscription that renews automatically until the User cancels it in the settings of their Apple Account.
 * Setting a tone as a ringtone or text tone is done with features of iOS that Apple provides and may change. This Application does not change the User’s ringtone by itself.
 
 ## Terms of Use
@@ -59,7 +59,7 @@ Any applicable statutory limitation or exception to copyright shall stay unaffec
 
 ### Licence to tones
 
-* **Store Tones.** For each Store Tone that the User adds from the free Starter pack or from a tone pack the User has unlocked, the Owner grants the User a personal, non-exclusive, non-transferable licence to use that tone as a ringtone, text tone, alarm or other alert sound on devices the User owns or controls, and to keep copies of it for that purpose. This licence does not allow the User to sell, distribute, publish or broadcast Store Tones, to offer them in other apps or services, or to use them in other works such as videos, songs or advertisements. Editing a Store Tone in this Application does not change these limits.
+* **Store Tones.** For each Store Tone that the User adds to My Tones, whether it is free, bought by the User or added while Tone Studio Premium is active, the Owner grants the User a personal, non-exclusive, non-transferable licence to use that tone as a ringtone, text tone, alarm or other alert sound on devices the User owns or controls, and to keep copies of it for that purpose. This licence does not allow the User to sell, distribute, publish or broadcast Store Tones, to offer them in other apps or services, or to use them in other works such as videos, songs or advertisements. Editing a Store Tone in this Application does not change these limits.
 * **Composer.** The User may use the tones that the User composes in the Composer for any purpose, including sharing them and using them in other works. Because the Composer composes from a limited number of settings, other Users may compose the same or similar tones, so the Owner does not grant the User exclusive rights in them, and the User may not prevent others from using the same or similar tones.
 * **User Content.** Recordings that the User makes and audio or video that the User imports, and the tones the User makes from them, remain the User’s or belong to their rights holders. The Owner claims no rights in them and does not receive them.
 
@@ -98,7 +98,7 @@ Therefore, the Owner reserves the right to take any appropriate measure to prote
 
 This Application or specific Products available for sale on this Application must be purchased via the Apple App Store. To access such purchases, Users must follow the instructions provided on the Apple App Store, which may vary depending on the particular device in use.
 
-Unless otherwise specified, purchases made via the Apple App Store are also subject to Apple’s terms and conditions, which, in case of any inconsistency or conflict, shall always prevail over these Terms.
+Unless otherwise specified, purchases made via the Apple App Store are also subject to Apple’s terms and conditions, including Apple’s Licensed Application End User License Agreement, which, in case of any inconsistency or conflict, shall always prevail over these Terms.
 
 Users purchasing through the Apple App Store must therefore read such terms and conditions of sale carefully and accept them.
 
@@ -106,15 +106,32 @@ Users purchasing through the Apple App Store must therefore read such terms and 
 
 ### Free use
 
-This Application can be used free of charge with limits: the Starter pack, some Composer instruments, and a limited number of tones of the User’s own. The current limits are shown in this Application.
+This Application can be used free of charge with limits. On the free plan, the User gets every Starter Tone, the first ringtone and the first text tone of every other tone pack, some Composer instruments and voice effects, and up to three tones of the User’s own (recordings, imports and Composer tones). The current limits are shown in this Application.
 
-### Tone Studio Pro and tone packs
+### Single tones
 
-Tone Studio Pro removes the limit on tones of the User’s own, unlocks every Composer instrument, and unlocks every tone pack, including tone packs that the Owner adds while Tone Studio Pro is offered. Tone packs can also be bought one at a time. What each Product includes and its price are shown in this Application before purchase.
+A Store Tone that the User buys on its own is a one-time purchase. It is not a subscription and does not renew. It stays available to the User for as long as the Owner offers this Application, together with the licence described in “Licence to tones”, and can be restored on other devices signed in to the same Apple Account by using “Restore Purchases” in this Application. Where the User’s family uses Family Sharing, single tones can be shared with the family members it covers.
 
-### One-time purchases
+### Tone Studio Premium
 
-All Products are bought with a single payment. They are not subscriptions and do not renew. They remain available to the User for as long as the Owner offers this Application, and can be restored on other devices signed in to the same Apple Account by using “Restore Purchases” in this Application. Where the User’s family uses Family Sharing, Products can be shared with the family members it covers.
+Tone Studio Premium is an auto-renewing subscription. While it is active, it gives access to every Store Tone, including Store Tones that the Owner adds later, unlimited tones of the User’s own, and the Premium creation tools, such as every Composer instrument and voice effect, Describe it, Talking Tones and Merge & Mix. What Premium includes, its price and its period are shown in this Application before the User subscribes.
+
+* Payment is charged to the User’s Apple Account when the User confirms the purchase.
+* The subscription renews automatically for the same period unless auto-renew is turned off at least 24 hours before the end of the current period. The renewal is charged within the 24 hours before the current period ends.
+* The User can manage or cancel the subscription in the settings of their Apple Account (on iPhone: Settings › the User’s name › Subscriptions) or with “Manage Subscription” in this Application’s Settings. Cancelling stops the next renewal; Premium stays active until the end of the period already paid for.
+* Tone Studio Premium is not shared through Family Sharing.
+
+### Free trials and offers
+
+If an offer includes a free trial, the User is charged when the trial ends unless the User cancels at least 24 hours before it ends. Any unused part of a free trial ends when the User buys a subscription.
+
+### When Premium ends
+
+Store Tones that the User bought on their own stay the User’s. Store Tones that the User added to My Tones while subscribed, and tones of the User’s own made while subscribed, stay on the User’s device. Other Store Tones that are not free lock again, and on the free plan the User can save new tones of their own only while they have fewer than three.
+
+### Price changes
+
+If the price of Tone Studio Premium changes, Apple informs the User beforehand and, where the law requires it, asks for the User’s consent before the new price applies.
 
 ### Refunds
 
@@ -297,10 +314,11 @@ The above does not apply to any Users that qualify as European Consumers, nor to
 * **Business User:** any User who does not qualify as a Consumer.
 * **European Consumer:** any Consumer who has their habitual residence in a member state of the European Union or the European Economic Area.
 * **Service:** the service provided by this Application as described in these Terms and in this Application: making ringtones and text tones from the User’s recordings, imported audio and video, and tunes composed in this Application.
-* **Store Tones:** the tones offered in this Application’s Discover tab, in the free Starter pack and in tone packs, and any edited versions of them.
+* **Store Tones:** the tones offered in this Application’s Discover tab, in Starter Tones and in the other tone packs, and any edited versions of them.
 * **Composer:** the part of this Application that composes new tunes from the settings the User chooses.
 * **User Content:** sounds the User records with this Application, audio and video the User imports into it, and the tones made from them.
-* **Product:** any feature or content available for purchase in this Application, such as Tone Studio Pro and tone packs.
+* **Product:** any feature or content available for purchase in this Application, such as single Store Tones and Tone Studio Premium.
+* **Tone Studio Premium (or Premium):** the auto-renewing subscription described in “Tone Studio Premium”.
 * **Agreement:** any legally binding or contractual relationship between the Owner and the User, governed by these Terms.
 * **Terms:** all provisions applicable to the use of this Application and/or the Service as described in this document, as updated from time to time.
 * **Personal Data:** any information that directly or indirectly identifies a natural person.

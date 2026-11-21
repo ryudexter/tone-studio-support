@@ -1,6 +1,6 @@
 # Privacy Policy of Tone Studio
 
-Last updated: 18 November 2026
+Last updated: 21 November 2026
 
 This Application keeps the User’s recordings and tones on the User’s own iPhone or iPad. It has no accounts, shows no advertising, uses no analytics or tracking services, and sends no Data to servers run by the Owner.
 
@@ -9,7 +9,7 @@ This Application keeps the User’s recordings and tones on the User’s own iPh
 ### Personal Data processed for the following purposes
 
 * **Making tones:** the sounds the User records with the microphone, the audio and videos the User chooses to import, and the tones the User makes from them. Kept on the User’s iPhone or iPad.
-* **Purchases:** handled by Apple. This Application receives from Apple which Products the User has bought.
+* **Purchases and subscriptions:** handled by Apple. This Application asks Apple, on the User’s device, which tones the User owns and whether Tone Studio Premium is active.
 * **Support:** the emails that Users choose to send to the Owner.
 
 ### Not collected
@@ -36,7 +36,8 @@ Among the types of Personal Data that this Application processes, there are:
 * **Recordings:** the audio captured by the device’s microphone while the User is recording in this Application, which may include the User’s voice and the voices of other people nearby.
 * **Imported media:** the audio files and videos that the User picks in Files or Photos, or shares to this Application from another app. This Application receives only the items the User picks, not the rest of the User’s photo library or files. From a video, it keeps only the sound.
 * **Tones:** the tones the User saves, with their names, their type (ringtone or text tone), their length, the date they were made, and the settings used to make them in the Composer or the editor.
-* **Purchase information:** which Products the User has bought, as provided by Apple.
+* **Typed text:** the words the User types for a Talking Tone, to be spoken, and in the Composer’s Describe it, to suggest a tune. They are turned into sound or settings on the User’s device by features built into iOS and are not sent to the Owner.
+* **Purchase information:** which Products the User has bought and whether the User’s Tone Studio Premium subscription is active, as provided by Apple.
 * **Support information:** the content of any email the User sends to the Owner, and the User’s email address.
 
 Personal Data is provided by the User, for example when recording, importing or writing to the Owner, or is created when this Application is used, for example when the User saves a tone.
@@ -61,11 +62,11 @@ When the User taps Set as Ringtone, or exports a tone in another way, this Appli
 
 Like the data of other apps, the User’s tones may be included in backups of the device that the User makes with iCloud or with a computer. Such backups are made and kept under the User’s own settings and, for iCloud, under Apple’s privacy policy. The Owner has no access to them.
 
-### Purchases
+### Purchases and subscriptions
 
-Purchases are made through the Apple App Store and processed by Apple under Apple’s own privacy policy. The Owner never receives the User’s payment details.
+Purchases and subscriptions are handled by Apple through the App Store, under Apple’s own privacy policy. The Owner never receives the User’s name, email address, payment details or Apple Account.
 
-This Application receives from Apple which Products the User has bought, including Products shared through Family Sharing, to unlock Pro and tone packs.
+To know what the User has bought, this Application asks Apple’s StoreKit on the User’s device, which returns which tones the User owns, including tones shared through Family Sharing, and whether Tone Studio Premium is active. This Application uses that information only to unlock those tones and Premium. It stays on the User’s device and is not sent to the Owner or anyone else.
 
 ### Support emails
 
@@ -121,7 +122,7 @@ Once the retention period expires, Personal Data shall be deleted. Therefore, th
 
 ## The purposes of processing
 
-The Data concerning the User is processed to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: making ringtones and text tones, providing Pro and tone packs, and answering support requests.
+The Data concerning the User is processed to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: making ringtones and text tones, providing purchased tones and Tone Studio Premium, and answering support requests.
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “How this Application handles the Data”.
 
@@ -198,6 +199,6 @@ This privacy policy is written in English. If it is translated, the translation 
 * **Owner (or Data Controller):** the natural or legal person named at the beginning of this privacy policy, who decides the purposes and means of the processing of Personal Data.
 * **This Application (or Tone Studio):** the iPhone and iPad app through which the Service is provided.
 * **Service:** the service provided by this Application as described in the Terms and Conditions and in this Application: making ringtones and text tones from the User’s recordings, imported audio and video, and tunes composed in this Application.
-* **Product:** any feature or content available for purchase in this Application, such as Tone Studio Pro and tone packs.
+* **Product:** any feature or content available for purchase in this Application, such as single tones and Tone Studio Premium.
 * **European Union (or EU):** all current member states of the European Union and the European Economic Area.
 * **Apple:** Apple Inc. and its subsidiaries.

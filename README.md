@@ -4,7 +4,7 @@ Make your own ringtones and text tones on iPhone: record a sound, take one from 
 
 This page is Tone Studio's support page. The app's code isn't here.
 
-Tone Studio has no ads, no accounts, no subscriptions and no tracking. Your recordings and tones stay on your iPhone.
+Tone Studio has no ads, no accounts and no tracking. Your recordings and tones stay on your iPhone.
 
 ## Getting help
 
@@ -26,7 +26,13 @@ Email **[zcengel@yahoo.com](mailto:zcengel@yahoo.com)**. Say which iPhone and iO
 
 **What can I make a tone from?** Your own recordings, audio files from Files and iCloud Drive, audio files that other apps open in Tone Studio, and the sound from videos in Photos. Songs from Apple Music are copy-protected, so they can't be imported.
 
-**What's free, and what does Pro add?** Free: the Starter pack, three Composer instruments (Marimba, Pluck and Bell), and up to 3 of your own tones (recordings, imports and Composer creations). Tones from Discover don't count toward the 3. Pro is a one-time purchase that adds unlimited tones of your own, all 8 instruments and every tone pack, including packs added later. You can also buy packs one at a time. There are no subscriptions, and Family Sharing works with every purchase.
+**What's free?** Every Starter Tone, the first ringtone and the first text tone of every pack in Discover, recording and importing, the Editor's basic effects, three Composer instruments (Marimba, Pluck and Bell), three voice effects, Charging Sounds, and up to 3 of your own tones (recordings, imports and Composer creations). Tones from Discover don't count toward the 3.
+
+**Can I buy just one tone?** Yes. Tap the price next to any tone in Discover. A ringtone or text tone you buy is a one-time purchase: it's yours on all your devices, and Family Sharing works with it.
+
+**What does Premium add?** Tone Studio Premium is a yearly subscription. It unlocks every tone in Discover, including ones added later, unlimited tones of your own, every Composer instrument and voice effect, Describe it, Talking Tones and Merge & Mix. The price is shown in the app before you subscribe. It renews each year until you cancel. When Premium ends, tones you bought stay yours, and tones already in My Tones stay there.
+
+**How do I cancel Premium?** In Tone Studio, go to Settings › Manage Subscription. Or on your iPhone, open Settings, tap your name, then Subscriptions › Tone Studio Premium › Cancel Subscription. Cancel at least 24 hours before it renews. Premium stays on until the end of the year you paid for.
 
 **I bought something but it isn't showing.** In Tone Studio's Settings, tap **Restore Purchases**, signed in to the Apple Account you bought it with.
 
